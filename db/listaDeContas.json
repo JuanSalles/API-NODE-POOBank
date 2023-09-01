@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "tipoDeConta": "Corrente",
+        "nomeCompleto": "Fulano silva de Jesus",
+        "dataDeNascimento": "Sun Dec 17 1995 03:24:00 GMT",
+        "senha": "string",
+        "saldo": 0
+    },
+    {
+        "id": 2,
+        "tipoDeConta": "Corrente",
+        "nomeCompleto": "Carlos de Jesus",
+        "dataDeNascimento": "Sun Oct 05 1999 03:24:00 GMT",
+        "senha": "string",
+        "saldo": -12000
+    },
+    {
+        "id": 3,
+        "tipoDeConta": "Poupança",
+        "nomeCompleto": "Fulano Salles de Santana",
+        "dataDeNascimento": "Sun May 20 2002 03:24:00 GMT",
+        "senha": "string",
+        "saldo": 100000000
+    }
+]
