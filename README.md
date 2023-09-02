@@ -26,3 +26,5 @@ Software utilizado para fazer as requisições: Postman
 - no terminal utilize o comando 'npm install' para instalar as dependencias do projeto
 - para rodar a aplicação em teste utilize o comando 'npm run dev' e para buildar 'npm run build'
 - para startar a aplicação após o build utilize o comando 'npm run start'
+
+#Os logs estão sendo salvos na pasta ./db/logs.txt
