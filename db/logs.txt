@@ -1,0 +1,38 @@
+01/09/2023, 22:26:10
+--Deposito de R$: 10000000 feito na conta 3
+01/09/2023, 22:26:14
+--Saque de R$: 20 feito na conta 3
+01/09/2023, 22:26:19
+--Transferencia de R$: 20 da conta 3 para a conta 1 realizada com sucesso!
+01/09/2023, 22:26:23
+--Deposito de R$: 10000000 feito na conta 3
+01/09/2023, 22:31:31
+--Deposito de R$: 10000000 feito na conta 3
+01/09/2023, 22:32:09
+--Saque de R$: 20 feito na conta 3
+01/09/2023, 22:32:11
+--Saque de R$: 20 feito na conta 3
+01/09/2023, 22:32:12
+--Saque de R$: 20 feito na conta 3
+01/09/2023, 22:32:14
+--Transferencia de R$: 20 da conta 3 para a conta 1 realizada com sucesso!
+01/09/2023, 22:32:16
+--Transferencia de R$: 20 da conta 3 para a conta 1 realizada com sucesso!
+01/09/2023, 22:32:22
+--Transferencia de R$: 20 da conta 3 para a conta 1 realizada com sucesso!
+01/09/2023, 22:32:23
+--Transferencia de R$: 20 da conta 3 para a conta 1 realizada com sucesso!
+01/09/2023, 22:32:24
+--Transferencia de R$: 20 da conta 3 para a conta 1 realizada com sucesso!
+01/09/2023, 22:32:24
+--Transferencia de R$: 20 da conta 3 para a conta 1 realizada com sucesso!
+01/09/2023, 22:32:28
+--Transferencia de R$: 20 da conta 3 para a conta 1 realizada com sucesso!
+01/09/2023, 22:32:29
+--Transferencia de R$: 20 da conta 3 para a conta 1 realizada com sucesso!
+01/09/2023, 22:39:35
+--Deposito de R$: 10000000 feito na conta 3
+01/09/2023, 22:39:37
+--Saque de R$: 20 feito na conta 3
+01/09/2023, 22:39:39
+--Transferencia de R$: 20 da conta 3 para a conta 1 realizada com sucesso!
