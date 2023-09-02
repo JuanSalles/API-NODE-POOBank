@@ -17,16 +17,11 @@ loginRouter.post('/login', (req, res) => {
 
 loginRouter.post('/deposito', (req, res) => {
     const id = req.body.conta
-    // const senha = req.body.senha
-    const tipoDeConta = req.body.tipoDeConta
+    
     const valor = req.body.valor
-    let conta: ContaBancaria
 
-    switch (tipoDeConta){
-        default:
-            conta = new ContaBancaria(id)
-    }
-
+    const conta = new ContaBancaria(id)
+    
     res.send(conta.deposito(valor))
 })
 
@@ -77,10 +72,6 @@ loginRouter.get('/conta', (req, res) => {
     }
 })
 
-loginRouter.get('/logs', (req, res) => {
-    const logs = require('../../db/logs.json')
-    res.json(logs)
-})
 
 //provisorio
 
